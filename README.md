@@ -8,7 +8,6 @@ Aplicación de terminal desarrollada en Node.js v18.16.0 para buscar el clíma d
 
 #### Datos Ciudad Seleccionada
 
-Datos del clima de la ciudad seleccionada
 ![Menú Principal](images/capture2.png)
 
 #### Historial de búsqueda
